@@ -43,7 +43,7 @@ python sample_onnx.py
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-MoveNet-Python-Example is under [MITLicense](LICENSE).
+DM-Count-ONNX-Sample is under [MITLicense](LICENSE).
 
 # License(Movie)
 サンプル動画は[NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)の[ロンドン市内 雑踏](https://www2.nhk.or.jp/archives/creative/material/view.cgi?m=D0002050318_00000)を使用しています。
